@@ -29,13 +29,13 @@ In regards to collision detection any breakthroughs or insights that can help im
 
 ## Contribute
 
-1. [**Does the [PlayerMovementBehavior](https://github.com/SamMwenda/NPGFlameGameToolKit/blob/main/game_player/lib/entities/player/behaviors/player_movement_behavior.dart) class make sense or does it ignore the purpose of flame_behaviors**](<https://github.com/SamMwenda/NPGFlameGameToolKit/issues/1>)
+1. **Does the [PlayerMovementBehavior](https://github.com/SamMwenda/NPGFlameGameToolKit/blob/main/game_player/lib/entities/player/behaviors/player_movement_behavior.dart) class make sense or does it ignore the purpose of flame_behaviors**(<https://github.com/SamMwenda/NPGFlameGameToolKit/issues/1>)
 
-2. [**Does it make sense to include the 'values' folder in a Flame project? What are the reasons for having it, and why might one choose not to include it?**](https://github.com/SamMwenda/NPGFlameGameToolKit/issues/2)
+2. **Does it make sense to include the 'values' folder in a Flame project? What are the reasons for having it, and why might one choose not to include it?**(<https://github.com/SamMwenda/NPGFlameGameToolKit/issues/2>)
 
-3. [**How do you detect collsions in your flame game?**](https://github.com/SamMwenda/NPGFlameGameToolKit/issues/3)
+3. **How do you detect collsions in your flame game?**(<https://github.com/SamMwenda/NPGFlameGameToolKit/issues/3>)
 
-4. [**What is the future of flame engine**](https://github.com/SamMwenda/NPGFlameGameToolKit/issues/4)
+4. **What is the future of flame engine**(<https://github.com/SamMwenda/NPGFlameGameToolKit/issues/4>)
 
 ## Credits
 

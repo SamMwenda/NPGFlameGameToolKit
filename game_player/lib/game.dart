@@ -7,7 +7,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
 import 'components/components.dart';
-import 'values.dart/values.dart';
+import 'values/values.dart';
 
 class PlayerGame extends FlameGame
     with HasKeyboardHandlerComponents, HasCollisionDetection {

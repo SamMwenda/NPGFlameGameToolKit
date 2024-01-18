@@ -6,7 +6,7 @@ import 'package:flame_behaviors/flame_behaviors.dart';
 import 'package:flutter/services.dart';
 
 import '../../components/components.dart';
-import '../../values.dart/values.dart';
+import '../../values/values.dart';
 import 'player.dart';
 
 class Player extends PositionedEntity {

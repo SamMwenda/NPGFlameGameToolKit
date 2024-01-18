@@ -3,7 +3,7 @@ import 'dart:async';
 import 'package:flame/components.dart';
 
 import '../../game.dart';
-import '../../values.dart/values.dart';
+import '../../values/values.dart';
 
 enum PlayerState { doubleJump, fall, hit, idle, jump, run, wallJump }
 

@@ -5,7 +5,7 @@ import 'package:flutter/services.dart';
 import '../../../checkcollision/checkcollision.dart';
 import '../../../components/components.dart';
 import '../../../game.dart';
-import '../../../values.dart/values.dart';
+import '../../../values/values.dart';
 import '../player.dart';
 
 
